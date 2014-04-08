@@ -2,6 +2,7 @@
 
 console.log('CLASS EXAMPLE');
 var child = new Child('Valera', 'yellow');
+//console.log('Name: ' + child.name + ', extra: ' + child.extra + '\n');
 console.log('Name: ' + child.getName() + ', extra: ' + child.getExtra() + '\n');
 
 

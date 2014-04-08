@@ -1,7 +1,7 @@
 
 
 class Parent implements IName{
-  name: string;
+  private name: string;
   constructor(name: string) {
     this.name = name;
   }

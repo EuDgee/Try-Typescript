@@ -1,7 +1,7 @@
 
 
 class Child extends Parent {
-  extra: string;
+  private extra: string;
 
   constructor(name: string, extra: string) {
     super(name);
