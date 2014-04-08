@@ -1,5 +1,4 @@
 ## Typescript basic demo.
-Involves a class and async call.
 
 1. Types
 2. Interfaces & Classes
